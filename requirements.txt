@@ -14,4 +14,4 @@ six==1.15.0
 typing-extensions>=4.10.0
 Werkzeug==1.0.1
 pillow==11.2.1
-torch==2.7.0 --extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.7.0+cpu
