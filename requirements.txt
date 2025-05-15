@@ -14,4 +14,6 @@ six==1.15.0
 typing-extensions>=4.10.0
 Werkzeug==1.0.1
 pillow==11.2.1
-torch==2.7.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+torch==2.7.0
+torchvision==0.18.0
+torchaudio==2.7.0
